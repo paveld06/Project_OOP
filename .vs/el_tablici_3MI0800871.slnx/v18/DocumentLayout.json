@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\OOP\\el_tablici_3MI0800871\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A71CED-E852-485C-A7D7-11DEED595B01}|el_tablici_3MI0800871\\el_tablici_3MI0800871.vcxproj|C:\\Users\\Lenovo\\Desktop\\OOP\\el_tablici_3MI0800871\\el_tablici_3MI0800871\\el_tablici_3MI0800871.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A71CED-E852-485C-A7D7-11DEED595B01}|el_tablici_3MI0800871\\el_tablici_3MI0800871.vcxproj|solutionrelative:el_tablici_3MI0800871\\el_tablici_3MI0800871.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "el_tablici_3MI0800871.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\OOP\\el_tablici_3MI0800871\\el_tablici_3MI0800871\\el_tablici_3MI0800871.cpp",
+              "RelativeDocumentMoniker": "el_tablici_3MI0800871\\el_tablici_3MI0800871.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\OOP\\el_tablici_3MI0800871\\el_tablici_3MI0800871\\el_tablici_3MI0800871.cpp",
+              "RelativeToolTip": "el_tablici_3MI0800871\\el_tablici_3MI0800871.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-19T10:10:19.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

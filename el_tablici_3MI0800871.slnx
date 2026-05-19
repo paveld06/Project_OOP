@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="el_tablici_3MI0800871/el_tablici_3MI0800871.vcxproj" />
+</Solution>
